@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VexTheGr8
-- 👀 I’m interested in Minecraft developement
-- 🌱 I’m currently learning Java & JSON
-- 💞️ I’m looking to collaborate on any projects related to Minecraft plugins/datapacks or mods
+- 👀 I’m interested in Minecraft/Discord developement
+- I'm currently learning Java
+- I’m looking to collaborate on any projects related to Minecraft plugins/datapacks or mods
 - 📫 Reach me on Discord @ VexTheGr8#4051
