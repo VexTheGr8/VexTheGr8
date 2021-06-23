@@ -2,4 +2,4 @@
 - 👀 I’m interested in Minecraft/Discord developement
 - I'm currently learning Java
 - I’m looking to collaborate on any projects related to Minecraft plugins/datapacks or mods
-- 📫 Reach me on Discord @ VexTheGr8#4051
+- 📫 Reach me on Discord @ VexTheGr!8#4051
